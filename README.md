@@ -1,107 +1,103 @@
 <!-- ========================================================= -->
-<!--                 TANUSH KASETTY | GITHUB PROFILE            -->
+<!--             TANUSH KASETTY | GITHUB PROFILE               -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:2563EB,70:06B6D4,100:7C3AED&text=Tanush%20Kasetty&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Second-Year%20B.Tech%20CSE%20Student%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=63&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Tanush%20Kasetty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Second-Year%20B.Tech%20CSE%20Student%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=63&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Second+Year+B.Tech+CSE+Student;AI+%26+Cloud+Enthusiast;Backend+Development+Learner;Google+Help+Community+Product+Expert;Google+Cloud+Arcade+2026;Always+Learning+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Second-Year+B.Tech+CSE+Student;AI+%26+Cloud+Enthusiast;Backend+Development+Learner;Google+Help+Community+Product+Expert;Building+Projects+One+Commit+at+a+Time"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/tanush326k">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tanush701321/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:tanush326k@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Tanush!
+# 👋 Hi, I'm Tanush Kasetty
 
-🎓 I'm a **Second-Year B.Tech Computer Science student** passionate about technology and continuous learning.
+I'm a **Second-Year B.Tech Computer Science student** with a strong interest in building practical software and continuously improving my technical skills.
 
-I enjoy building projects that help me understand software development better while exploring areas like **Artificial Intelligence**, **Cloud Computing**, **Backend Development**, and **Cybersecurity**.
+I'm currently exploring **Artificial Intelligence**, **Cloud Computing**, **Backend Development**, and **Cybersecurity** through hands-on projects, community participation, and continuous learning.
 
-Rather than just learning theory, I believe in **learning by building**. Every project I create is an opportunity to improve my skills and solve practical problems.
+I believe that the best way to learn is by **building, experimenting, and improving with every project.**
 
 ---
 
 # 🚀 Currently
 
 ```yaml
-🎓 Education:
-Second Year B.Tech (Computer Science)
+Education:
+  🎓 B.Tech Computer Science (2nd Year)
 
-🌱 Learning:
-• Artificial Intelligence
-• Google Cloud Platform
-• Backend Development
-• Data Structures & Algorithms
-• Cybersecurity Fundamentals
+Learning:
+  ☁️ Google Cloud Platform
+  🤖 Artificial Intelligence
+  ⚙️ Backend Development
+  📚 Data Structures & Algorithms
+  🔒 Cybersecurity
 
-💻 Building:
-• Personal Software Projects
-• AI Experiments
-• Cloud-based Applications
+Building:
+  💻 Personal Projects
+  🌱 AI Experiments
+  ☁️ Cloud-Based Applications
 
-🎯 Goal:
-Become a skilled Software Engineer by continuously learning,
-building, and contributing to the developer community.
+Current Goal:
+  Become a skilled Software Developer by learning,
+  building, and contributing consistently.
 ```
 
 ---
 
 # 🌱 Current Focus
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+| 🚀 Focus Area | Progress |
+|--------------|----------|
+| 🤖 Artificial Intelligence | 🌱 Learning |
+| ☁️ Google Cloud | 🚀 Active |
+| ⚙️ Backend Development | 🌱 Learning |
+| 📚 Data Structures & Algorithms | 📖 Practicing |
+| 🔒 Cybersecurity | 🌱 Exploring |
 
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
-
-<img src="https://img.shields.io/badge/Backend%20Development-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-10B981?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 💡 What Drives Me
+# 💡 What I'm Passionate About
 
-✔ Building practical projects
-
-✔ Learning new technologies
-
-✔ Solving real-world problems
-
-✔ Improving every day
-
-✔ Exploring AI & Cloud
-
-✔ Sharing knowledge with the community
+- 🤖 Building AI-powered applications
+- ☁️ Exploring Google Cloud technologies
+- 💻 Developing practical software projects
+- 🌍 Contributing to open-source communities
+- 📚 Learning new technologies through real-world projects
 
 ---
 
-# ⚡ Fun Fact
+<div align="center">
 
-> **"I believe every project teaches something that no tutorial ever can."**
+### 💭 Personal Motto
 
----  
+> **"Learn. Build. Improve. Repeat."**
+
+</div>
+
+---
 <!-- ========================================================= -->
 <!--                     TECH STACK                            -->
 <!-- ========================================================= -->
