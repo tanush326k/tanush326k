@@ -1,103 +1,26 @@
-<!-- ========================================================= -->
-<!--             TANUSH KASETTY | GITHUB PROFILE               -->
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Tanush%20Kasetty&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Second-Year%20B.Tech%20CSE%20Student%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=63&descSize=18"/>
+# Hi 👋, I'm Tanush Kasetty
 
-<br>
+### B.Tech CSE Student • AI & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Second-Year+B.Tech+CSE+Student;AI+%26+Cloud+Enthusiast;Backend+Development+Learner;Google+Help+Community+Product+Expert;Building+Projects+One+Commit+at+a+Time"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Second-Year+B.Tech+Student;AI+and+Cloud+Enthusiast;Backend+Development+Learner;Google+Help+Community+Product+Expert;Google+Cloud+Arcade+2026;Always+Learning+🚀"/>
 
 <br>
 
 <a href="https://github.com/tanush326k">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tanush701321/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:tanush326k@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
-
----
-
-# 👋 Hi, I'm Tanush Kasetty
-
-I'm a **Second-Year B.Tech Computer Science student** with a strong interest in building practical software and continuously improving my technical skills.
-
-I'm currently exploring **Artificial Intelligence**, **Cloud Computing**, **Backend Development**, and **Cybersecurity** through hands-on projects, community participation, and continuous learning.
-
-I believe that the best way to learn is by **building, experimenting, and improving with every project.**
-
----
-
-# 🚀 Currently
-
-```yaml
-Education:
-  🎓 B.Tech Computer Science (2nd Year)
-
-Learning:
-  ☁️ Google Cloud Platform
-  🤖 Artificial Intelligence
-  ⚙️ Backend Development
-  📚 Data Structures & Algorithms
-  🔒 Cybersecurity
-
-Building:
-  💻 Personal Projects
-  🌱 AI Experiments
-  ☁️ Cloud-Based Applications
-
-Current Goal:
-  Become a skilled Software Developer by learning,
-  building, and contributing consistently.
-```
-
----
-
-# 🌱 Current Focus
-
-<div align="center">
-
-| 🚀 Focus Area | Progress |
-|--------------|----------|
-| 🤖 Artificial Intelligence | 🌱 Learning |
-| ☁️ Google Cloud | 🚀 Active |
-| ⚙️ Backend Development | 🌱 Learning |
-| 📚 Data Structures & Algorithms | 📖 Practicing |
-| 🔒 Cybersecurity | 🌱 Exploring |
-
-</div>
-
----
-
-# 💡 What I'm Passionate About
-
-- 🤖 Building AI-powered applications
-- ☁️ Exploring Google Cloud technologies
-- 💻 Developing practical software projects
-- 🌍 Contributing to open-source communities
-- 📚 Learning new technologies through real-world projects
-
----
-
-<div align="center">
-
-### 💭 Personal Motto
-
-> **"Learn. Build. Improve. Repeat."**
-
-</div>
-
----
 <!-- ========================================================= -->
 <!--                     TECH STACK                            -->
 <!-- ========================================================= -->
